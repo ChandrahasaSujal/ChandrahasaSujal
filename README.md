@@ -1,6 +1,6 @@
 Hi there 👋  
 ✨ My name is Chandrahasa Sujal  
-✨ I'm a Full Stack Developer (.NET + Angular)  
+✨ I'm a Full Stack Developer (.NET + Angular + Azure)  
 ✨ Hobbies: Coding, Exploring Tech, Learning Languages  
 ✨ Languages: English, German 
 ✨ Current Focus: Backend roles with .NET, Azure, and DevOps  

@@ -3,7 +3,7 @@ Hi there 👋
 ✨ I'm a Full Stack Developer (.NET + Angular + Azure)  
 ✨ Hobbies: Coding, Exploring Tech, Learning Languages  
 ✨ Languages: English, German 
-✨ Current Focus: Backend roles with .NET, Azure, and DevOps  
+✨ Current Focus: Fullstack roles with .NET, Angular, Azure, and DevOps  
 ✨ Competencies: C#, ASP.NET Core, Angular 20, TypeScript, JavaScript, Azure, Azure DevOps, REST APIs, Docker, SQL Server, Entity Framework, GitHub Actions, CQRS, Multithreading
 
 🌱 My Latest Projects  
